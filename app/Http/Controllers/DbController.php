@@ -10,6 +10,7 @@ class DbController extends Controller
         $req = DB::table('employee')->get();
         dd($req);
         //Je suis le meilleur des meilleurs
+        //dskmdlfsdklfmsdlkfdmsfldfmsfldlfds
 
        
     }
