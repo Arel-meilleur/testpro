@@ -9,7 +9,7 @@ class DbController extends Controller
     public function index(){
         $req = DB::table('employee')->get();
         dd($req);
-        //Je suis le meilleur des meilleurs
+        //Je suis le meilleur des meilleurs dsdfdsfsdf
 
        
     }
